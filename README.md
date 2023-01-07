@@ -454,30 +454,10 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:0 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD (ARABIA)
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
-#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/CrlUTLN.png",[$]BEIN SPORTS NEWS HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/323
-#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/tUcwGV9.png",[$]BEIN SPORTS HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/572
 #EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322
-#EXTINF:-1 group-title="[[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/320
-#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/319
-#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/318
-#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/317
-#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/316
-#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD (ARABIA)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/315
-#EXTINF:0 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1FHD (ENGLISH)
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-#EXTINF:0 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/EgB9nZl.png",[$]BEIN SPORTS 1HD (ENGLISH)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/330
-#EXTINF:0 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/ybJpHsM.png",[$]BEIN SPORTS 2HD (ENGLISH)
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/329
+http://62.182.82.104/BEINSPORT_1_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD (ARABIA)
+http://62.182.82.104/BEINSPORT_2_HD/index.m3u8?token=test
 #EXTINF:0 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD (ENGLISH)
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
 #EXTINF:0 group-title="[🇪🇺⚽]SPORTE TE HUAJA" tvg-logo="https://i.imgur.com/q9G7TJp.png",[$]BEIN SPORTS 1HD (TURKEY)
